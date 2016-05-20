@@ -73,6 +73,9 @@
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
+iframe {    
+ border:0 none;
+}
 #cssmenu > ul > li.active > a {
   color: #ffffff;
 }
